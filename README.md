@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA and my project.<br>👯 I’m looking to collaborate on some backend projects. <br>🌱 I’m currently learning backend development and Typescript.<br>💬 Ask me about React <br>⚡ Fun fact - I'm an introvert
+🔭 I’m a developer who likes backend technologies.<br>👯 I’m looking to collaborate on some backend projects. <br>🌱 I’m currently learning backend development and Typescript.<br>💬 Ask me about Movies,Anime,High Fantasy Novels <br>⚡ Fun fact - I like novel in 21st century.
 
 
 ## 🌐 Socials:
